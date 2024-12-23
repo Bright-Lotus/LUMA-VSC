@@ -1,13 +1,13 @@
 {
-	"name": "lsp-sample-client",
-	"description": "VSCode part of a language server",
-	"author": "Microsoft Corporation",
-	"license": "MIT",
+	"name": "luma-client",
+	"description": "Client of the .lotus LSP server.",
+	"author": "Bright Lotus",
+	"license": "BSD-3-Clause",
 	"version": "0.0.1",
-	"publisher": "vscode",
+	"publisher": "Bright Lotus",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-extension-samples"
+		"url": "https://github.com/Bright-Lotus/LUMA-VSC"
 	},
 	"engines": {
 		"vscode": "^1.75.0"

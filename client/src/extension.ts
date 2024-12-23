@@ -43,8 +43,8 @@ export function activate(context: ExtensionContext) {
 
 	// Create the language client and start the client.
 	client = new LanguageClient(
-		'Lotus Language Server',
-		'Language server for .lotus files used by the Lotus Engine.',
+		'Luma',
+		'LUMA',
 		serverOptions,
 		clientOptions
 	);
